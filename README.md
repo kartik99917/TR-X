@@ -159,3 +159,10 @@ Compiler 💔 Me
 
 ---
 
+# ⭐ Thanks for Visiting!
+
+```
+May your code compile,
+your bugs disappear,
+and your semicolons never be forgotten.
+```
