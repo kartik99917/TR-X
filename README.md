@@ -11,18 +11,6 @@
 - 🎮 Ctrl + C, Ctrl + V Engineer.
 - 🌙 Night owl developer.
 
----
-
-## 🧠 Current Status
-
-```text
-Learning: ██████████░ 99%
-Debugging: ███████████ 200%
-Sleeping: ░░░░░░░░░░░ 0%
-```
-
----
-
 ## 💀 Daily Routine
 
 ```
