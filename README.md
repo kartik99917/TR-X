@@ -1,13 +1,6 @@
 # 👋 Hey, I'm Kartik!
 
-```txt
-while (alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-```
+
 
 ## 🚀 About Me
 
