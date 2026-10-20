@@ -138,12 +138,3 @@ Compiler 💔 Me
 - ChatGPT
 - Hope
 
----
-
-# ⭐ Thanks for Visiting!
-
-```
-May your code compile,
-your bugs disappear,
-and your semicolons never be forgotten.
-```
